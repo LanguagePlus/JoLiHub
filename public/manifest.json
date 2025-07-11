@@ -1,0 +1,14 @@
+
+{
+  "name": "Language Plus",
+  "short_name": "LangPlus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Language Plus - your OTT language learning platform",
+  "icons": [{
+    "src": "/logo.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
