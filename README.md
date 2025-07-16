@@ -1,5 +1,5 @@
 
-# Language Plus OTT
+# JoLiHub OTT
 
 Welcome to the Language Plus OTT platform. This is a starter project built with Next.js and TailwindCSS, ready to grow into a full OTT app for language learners.
 
